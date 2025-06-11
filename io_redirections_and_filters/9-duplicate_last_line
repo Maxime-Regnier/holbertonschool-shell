@@ -1,1 +1,2 @@
-tail -1 iacta >> iacta 
+#!/bin/bash
+tail -1 iacta >Read more: https://en.wikipedia.org/wiki/Alea_iacta_est
