@@ -1,0 +1,2 @@
+#!/bin/bash
+grep -i 'H*'  etc/ssh/sshd_config
