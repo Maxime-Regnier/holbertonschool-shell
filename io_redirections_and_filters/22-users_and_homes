@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir /etc/passwd
+mkdir ~/etc/passwd
