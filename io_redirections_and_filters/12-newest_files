@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lt 1 | headi io_redirections_and_filters -n 10
+ls -lt 1 | head -n 10 i io_redirections_and_filters
