@@ -1,2 +1,2 @@
 #!/bin/bash
-LANG=ES_ES tr -L c C
+tr -d 'cC'
