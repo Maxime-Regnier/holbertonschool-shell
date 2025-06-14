@@ -1,2 +1,2 @@
 #!/bin/bash
-echyo {a..z}{a..z} | tr " " "\n" | grep -v "oo"
+echyo {a..z}{a..a} | tr " " "\n" | grep -v "oo"
