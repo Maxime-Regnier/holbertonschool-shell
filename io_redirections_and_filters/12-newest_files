@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -latR | head -n10
