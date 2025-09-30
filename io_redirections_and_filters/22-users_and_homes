@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -oE '^[/*/]$' /etc/passwd
+grep $i /etc/passwd | cut -d: -f1 | tr "\n" " "
