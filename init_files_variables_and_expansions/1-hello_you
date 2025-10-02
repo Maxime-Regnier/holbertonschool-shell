@@ -1,3 +1,2 @@
- #!/bin/bash
- id hello user
- 
+#!/bin/bash
+id hello user
