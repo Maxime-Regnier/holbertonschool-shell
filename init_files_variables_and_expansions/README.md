@@ -8,3 +8,4 @@ export BEST=School
 BEST=School
 echo $(($TRUEKNOWLEDGE + 128))
 printf "%.2f\n" $NUM
+echo $(($POWER / $DIVIDE))
