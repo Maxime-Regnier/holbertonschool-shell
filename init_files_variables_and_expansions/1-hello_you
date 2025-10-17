@@ -1,2 +1,2 @@
 #!/bin/bash
-set hello user
+printf hello user
